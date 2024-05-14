@@ -44,7 +44,7 @@
     "adm-zip": "^0.5.9",
     "detect-libc": "^2.0.1",
     "rename-overwrite": "^4.0.3",
-    "tempy": "^1.0.1"
+    "tempy": "^3.0.0"
   },
   "devDependencies": {
     "@pnpm/cafs-types": "workspace:*",
