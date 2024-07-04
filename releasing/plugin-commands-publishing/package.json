@@ -71,7 +71,7 @@
     "@pnpm/run-npm": "workspace:*",
     "@pnpm/sort-packages": "workspace:*",
     "@pnpm/types": "workspace:*",
-    "@zkochan/rimraf": "^2.1.2",
+    "@zkochan/rimraf": "^3.0.0",
     "enquirer": "^2.3.6",
     "execa": "npm:safe-execa@^0.1.2",
     "fast-glob": "^3.2.12",
