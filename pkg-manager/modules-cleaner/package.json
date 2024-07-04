@@ -36,7 +36,7 @@
     "@pnpm/remove-bins": "workspace:*",
     "@pnpm/store-controller-types": "workspace:*",
     "@pnpm/types": "workspace:*",
-    "@zkochan/rimraf": "^2.1.2",
+    "@zkochan/rimraf": "^3.0.0",
     "@pnpm/dependency-path": "workspace:*",
     "ramda": "npm:@pnpm/ramda@0.28.1"
   },
