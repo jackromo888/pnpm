@@ -57,7 +57,7 @@
     "@pnpm/sort-packages": "workspace:*",
     "@pnpm/store-path": "workspace:*",
     "@pnpm/types": "workspace:*",
-    "@zkochan/rimraf": "^2.1.2",
+    "@zkochan/rimraf": "^3.0.0",
     "execa": "npm:safe-execa@^0.1.2",
     "p-limit": "^3.1.0",
     "path-exists": "^4.0.0",
