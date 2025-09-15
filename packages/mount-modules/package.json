@@ -51,7 +51,7 @@
     "@pnpm/types": "workspace:*",
     "@pnpm/dependency-path": "workspace:*",
     "hyperdrive-schemas": "^2.0.0",
-    "load-json-file": "^6.2.0",
+    "load-json-file": "^7.0.0",
     "normalize-path": "^3.0.0"
   },
   "funding": "https://opencollective.com/pnpm",
